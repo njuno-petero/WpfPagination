@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
+    <Authors>Petero Njuno</Authors>
+    <Description>A simple wpf package for paginating data</Description>
+	  <PackageTags>Pagination for wpf</PackageTags>
+    <PackageProjectUrl>https://github.com/njuno-petero/WpfPagination</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/njuno-petero/WpfPagination</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+	  <IncludeSymbols>True</IncludeSymbols>
+	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>
